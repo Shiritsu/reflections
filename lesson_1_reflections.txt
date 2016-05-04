@@ -1,0 +1,6 @@
+Questions to reflect upon:
+
+Question 6: How might using version control make you more confident to make changes that could break something?
+
+Answer: easier to go back if something went wrong, that's why it's good to have commits.
+
